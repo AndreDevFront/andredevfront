@@ -119,7 +119,7 @@ Ao longo da minha tragetória profissional, trabalhei com diversos segmentos, de
   />
 </div>
 
-
+<br />
 <br />
 
 ### 📊 Estatísticas
