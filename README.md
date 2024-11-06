@@ -121,7 +121,7 @@ Ao longo da minha tragetória profissional, trabalhei com diversos segmentos, de
 
 ### 📊 Estatísticas
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; border: 1px solid red">
   <p>
     <img
       align="left"
