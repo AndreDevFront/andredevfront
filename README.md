@@ -130,8 +130,8 @@ Ao longo da minha tragetória profissional, trabalhei com diversos segmentos, de
       align="left"
       alt="GitHub Stats"
       height="200"
-      style="padding-right: 5px;"
-      src="https://github-readme-stats.vercel.app/api?username=andredevfront&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      style="padding-right: 5px; max-width: 100%"
+      src="https://github-readme-stats.vercel.app/api?username=andredevfront&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"      
     />    
   </div>
   <div>
@@ -139,6 +139,7 @@ Ao longo da minha tragetória profissional, trabalhei com diversos segmentos, de
       align="left"
       alt="GitHub Stats"
       height="200"
+      style="max-width: 100%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredevfront&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
     />
   </div>
