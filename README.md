@@ -126,7 +126,7 @@ Ao longo da minha tragetória profissional, trabalhei com diversos segmentos, de
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 0;"
+    style="padding-right: 5px; margin-bottom: 10px; float:left; border: 1px solid red"
     src="https://github-readme-stats.vercel.app/api?username=andredevfront&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
