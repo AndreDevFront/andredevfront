@@ -136,7 +136,7 @@ Ao longo da minha tragetória profissional, trabalhei com diversos segmentos, de
       align="left"
       alt="GitHub Stats"
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredevfront&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredevfront&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12"
   />
 
 </p>
