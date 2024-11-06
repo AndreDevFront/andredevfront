@@ -120,7 +120,8 @@ Ao longo da minha tragetória profissional, trabalhei com diversos segmentos, de
 </div>
 
 
-
+<br />
+<br />
 
 ### 📊 Estatísticas
 <div style="display: flex; justify-content: space-between;">
