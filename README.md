@@ -133,6 +133,7 @@ Ao longo da minha tragetória profissional, trabalhei com diversos segmentos, de
       style="padding-right: 5px;"
       src="https://github-readme-stats.vercel.app/api?username=andredevfront&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
+    <br />
   </div>
   <div>
     <img
